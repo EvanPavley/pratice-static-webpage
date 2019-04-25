@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  margin: 0;
+}
+
+.header-container{
+  display: flex;
+  justify-content: center;
+}
+
+.title-image{
+  height: 40rem;
+  width: 60%;
+  background-color: #4286f4;
+}
+
+.menu-container{
+  height: 40rem;
+  width: 40%;
+  border: 2px solid pink;
+}
